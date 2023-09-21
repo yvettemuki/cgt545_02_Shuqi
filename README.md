@@ -9,3 +9,7 @@ Intructions for adding Git Large File Storage:
 - run 'git lfs track Content/Fundamentals/Materials/Content/Textures/T_GDC_LargeVolcanicRock_001_N.uasset'
 - then run 'git lfs track Content/Fundamentals/Materials/Content/Textures/T_GDC_LargeVolcanicRock_001_D2_R.uasset'
 
+
+
+** BakedLighting_Lightmaps_House2 is under Content/Fundamentals/Lighting_Rendering/ **
+
